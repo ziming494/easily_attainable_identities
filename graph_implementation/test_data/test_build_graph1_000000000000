@@ -1,0 +1,6 @@
+address1,address2,total_transfer_usd
+address1,address2,1000.00
+address2,address1,1000.00
+address2,address3,9.00
+address4,address4,300.00
+address3,address1,10
